@@ -4,8 +4,6 @@ import java.util.NoSuchElementException;
 
 /**
  * A class to represent a linked list of nodes.
- * @author Bereket
- * @version 1.0
  * @param <T> the type of item the linked list stores
  */
 public class LinkedList<T> implements Iterable<T> {
