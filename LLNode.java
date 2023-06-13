@@ -6,7 +6,7 @@ package application;
  */
 public class LLNode<T> {
 	
-  /** the element stored in the node */
+  /** the element stored in the node. */
   private T element;
   
   /** a reference to the next node of the list */
