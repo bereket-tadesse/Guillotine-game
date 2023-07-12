@@ -12,7 +12,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * A class of a game called Guillotine played by two players.
+ * A class of a game called Guillotine played by two players
  * @author Bereket
  * @version 1.0
  */
