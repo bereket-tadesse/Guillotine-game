@@ -18,7 +18,7 @@ import java.util.Scanner;
  */
 public class Guillotine extends Application {
 
-	/** stores the number of cards the player */
+	/** stores the number of cards the player. */
 	public static int NumberOfCards;
 	
 	/** Stores the array of buttons from the linked list of the cards. (used only fordisplaye purpose */
