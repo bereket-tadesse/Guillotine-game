@@ -4,8 +4,7 @@ Guillotine is a simple card game with the objective of collecting the most point
 ## How to play the game 
 
 At the start of the game, 20 "person" cards are placed in a line. The cards are selected and ordered randomly from the following cards.
-
-Name	Group	Points
+ Name	Group	Points
 King Louis XIV	Royal	5
 Marie Antoinette	Royal	5
 Regent	Royal	4
@@ -46,7 +45,8 @@ Student	Commoner	-1
 Student	Commoner	-1
 Student	Commoner	-1
 Student	Commoner	-1
-![image](https://github.com/bereket-tadesse/Guillotine-game/assets/84309246/d0e90e7a-3f3c-4ab5-b06e-100868bfb1f9)
+![image](https://github.com/bereket-tadesse/Guillotine-game/assets/84309246/f4dea3dc-9ada-4114-bd08-490809fe8079)
+
 
 
 ## Here are the possible actions a player can take prior to taking the card at the front of the line.
