@@ -46,6 +46,8 @@ Student	Commoner	-1
 Student	Commoner	-1
 Student	Commoner	-1
 Student	Commoner	-1
+![image](https://github.com/bereket-tadesse/Guillotine-game/assets/84309246/d0e90e7a-3f3c-4ab5-b06e-100868bfb1f9)
+
 
 ## Here are the possible actions a player can take prior to taking the card at the front of the line.
 
