@@ -4,48 +4,8 @@ Guillotine is a simple card game with the objective of collecting the most point
 ## How to play the game 
 
 At the start of the game, 20 "person" cards are placed in a line. The cards are selected and ordered randomly from the following cards.
- Name	Group	Points
-King Louis XIV	Royal	5
-Marie Antoinette	Royal	5
-Regent	Royal	4
-Duke	Royal	3
-Baron	Royal	3
-Count	Royal	2 (4 if the player also collects the Countess)
-Countess	Royal	2 (4 if the player also collects the Count)
-Lord	Royal	2 (4 if the player also collects the Lady)
-Lady	Royal	2 (4 if the player also collects the Lord)
-Cardinal	Church	5
-Archbishop	Church	4
-Nun	Church	3
-Bishop	Church	2
-Priest	Church	1
-Priest	Church	1
-Heretic	Church	equal to the number of Church members the player collects
-Governor	Civic	4
-Mayor	Civic	3
-Councilman	Civic	3
-Judge	Civic	2
-Judge	Civic	2
-Tax Collector	Civic	equal to the number of Civic persons the player collects
-Sheriff	Civic	1
-Sheriff	Civic	1
-Palace Guard	Military	equal to the number of Palace Guards the player collects
-Palace Guard	Military	equal to the number of Palace Guards the player collects
-Palace Guard	Military	equal to the number of Palace Guards the player collects
-Palace Guard	Military	equal to the number of Palace Guards the player collects
-Palace Guard	Military	equal to the number of Palace Guards the player collects
-General	Military	4
-Colonel	Military	3
-Captain	Military	2
-Lieutenant	Military	1
-Lieutenant	Military	1
-Tragic Figure	Commoner	worth -1 point for each Commoner the player collects
-Heroic Figure	Commoner	-3
-Student	Commoner	-1
-Student	Commoner	-1
-Student	Commoner	-1
-Student	Commoner	-1
-![image](https://github.com/bereket-tadesse/Guillotine-game/assets/84309246/f4dea3dc-9ada-4114-bd08-490809fe8079)
+
+![image](https://github.com/bereket-tadesse/Guillotine-game/assets/84309246/2bff8317-3d83-481f-b277-aeefb97bfd02)
 
 
 
