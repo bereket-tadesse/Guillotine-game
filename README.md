@@ -5,7 +5,6 @@ Guillotine is a simple card game with the objective of collecting the most point
 
 At the start of the game, 20 "person" cards are placed in a line. The cards are selected and ordered randomly from the following cards.
 
-
 Name	Group	Points
 King Louis XIV	Royal	5
 Marie Antoinette	Royal	5
