@@ -9,7 +9,7 @@ At the start of the game, 20 "person" cards are placed in a line. The cards are 
 
 
 
-## Here are the possible actions a player can take prior to taking the card at the front of the line.
+## Here are the possible actions a player can take prior to taking the card at the front of the line:
 
 - Move the lead card back exactly 4 places.
 - Move the lead card back exactly 3 places.
