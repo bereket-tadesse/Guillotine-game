@@ -1,4 +1,4 @@
-# Guillotine-game
+# Guillotine-game (1130 lines of code)
 Guillotine is a simple card game with the objective of collecting the most points. Players gain points by 'beheading' important nobles. It has JavaFX GUI and uses linkedlist as line of the players. feel free to use the source code and add more features and graphics.
 
 ## How to play the game 
