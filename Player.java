@@ -2,7 +2,7 @@ package application;
 
 public class Player {
 
-	/** the points the player collects */
+	/** the points the player collects */ 
 	private int points = 0;
 	
 	/** the name of the player. */
